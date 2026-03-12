@@ -8,6 +8,8 @@ The model was trained on Arabic text and later fine-tuned on an instruction-foll
 
 ---
 
+Demo link : https://drive.google.com/file/d/1zY6dw6YoX-gTR7SNWxFhPm8SvkXyxZdG/view?usp=sharing
+
 ## Model Architecture
 
 Decoder-only Transformer (GPT style)
