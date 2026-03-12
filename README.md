@@ -37,6 +37,8 @@ Model configuration:
 
 ### Pretraining Data
 
+Source: https://researchdata.se/en/catalogue/dataset/2024-145
+
 Arabic corpus text.
 
 - Size: ~1.1M characters
